@@ -55,3 +55,99 @@ header {
     width: 41.96px;
     height: 41.96px;
 }
+
+.container1 {
+    position: absolute;
+    padding: 0px 120px;
+    top: 241px;
+}
+
+.heading1 {
+    font-family: Neurial Grotesk;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 61.6px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+.heading2 {
+    font-family: Neurial Grotesk;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 61.6px;
+    text-align: left;
+    color: white;
+}
+
+.text-below-title-container {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+}
+
+.blue-text {
+    color: #CFD9FF;
+}
+
+.white-text {
+    color: #FFFFFF;
+}
+
+.heading2 {
+    margin-bottom: 16px;
+}
+
+.talk-to-an-expert {
+    margin-top: 48px;
+    width: 200px;
+    height: 50px;
+    padding: 21.5px 24px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-image-source: linear-gradient(93.97deg, rgba(255, 255, 255, 0.1) 2.56%, rgba(255, 255, 255, 0) 95.26%);
+    background: linear-gradient(0deg, #1E3076, #1E3076), linear-gradient(93.97deg, rgba(255, 255, 255, 0.1) 2.56%, rgba(255, 255, 255, 0) 95.26%);
+    gap: 8px;
+    box-shadow: 0px 4px 8px 0px #0000001A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+
+.svg-icon {
+    margin-bottom: 8.88px;
+}
+
+.container2 {
+    padding: 180px 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.container2-text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    height: 21px;
+    color: #FFFFFF;
+}
+
+.container2-logo1 {
+    margin-left: 32px;
+    margin-right: 32px;
+}
