@@ -237,7 +237,7 @@ header {
 
 
 section {
-    height: 2447px;
+    height: 1747px;
     background-color: #ffffff;
 }
 
@@ -334,7 +334,7 @@ section {
 }
 
 .container4 {
-    padding: 350.71px 0;
+    padding: 125.71px 0;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -517,5 +517,24 @@ section {
     margin-top: 0px;
 }
 
+.container3-illustation1 {
+    margin-left: 725px;
+    margin-top: -225px;
+}
 
-/*182.19 entre bouton explore auto et dev*/
+.container4-illustation1 {
+    margin-left: 725px;
+    margin-top: -205px;
+}
+
+.container5-illustation1 {
+    margin-left: 725px;
+    margin-top: -160px;
+}
+
+.section2 {
+    height: 768px;
+    background-color: #3B61F4;
+    margin-top: 0;
+    padding-top: 40px;
+}
