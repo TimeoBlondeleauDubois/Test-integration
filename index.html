@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test d'intégration</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <div class="zoom">
     <body>
@@ -59,7 +60,7 @@
             </div>
         </header>
         <section>
-            <div class="container3">
+            <div class="container3" data-aos="fade-right" data-aos-anchor-placement="center-center" data-aos-duration="1000">
                 <img src="Images/logo_left_coverage.svg" alt="logo_left_coverage" class="logo_left_coverage">
                 <p class="container3_heading">COVERAGE</p>
                 <p class="container3_heading1"><span class="container3_heading1_precise">We develop bank integrations so you don't have to</span></p>            
@@ -69,9 +70,9 @@
                 </a>
             </div>
             <span>
-                <img src="Images/Illustration1.png" alt="container3-illustation1" class="container3-illustation1">
+                <img src="Images/Illustration1.png" alt="container3-illustation1" class="container3-illustation1" data-aos="fade-left" data-aos-anchor-placement="center-center" data-aos-duration="1000">
             </span>
-            <div class="container4">
+            <div class="container4" data-aos="fade-right" data-aos-anchor-placement="center-center" data-aos-duration="1000">
                 <img src="Images/logo_left_automation.svg" alt="logo_left_automation" class="logo_left_automation">
                 <p class="container4_heading">AUTOMATION</p>
                 <p class="container4_heading1"><span class="container4_heading1_precise">Build custom end-to-end payment workflows</span></p>            
@@ -81,9 +82,9 @@
                 </a>
             </div>
             <span>
-                <img src="Images/Illustration2.png" alt="container4-illustation1" class="container4-illustation1">
+                <img src="Images/Illustration2.svg" alt="container4-illustation1" class="container4-illustation1"data-aos="fade-left" data-aos-anchor-placement="center-center" data-aos-duration="1000">
             </span>
-            <div class="container5">
+            <div class="container5" data-aos="fade-right" data-aos-anchor-placement="center-center" data-aos-duration="1000">
                 <img src="Images/logo_left_developers.svg" alt="logo_left_developers" class="logo_left_developers">
                 <p class="container5_heading">DEVELOPERS</p>
                 <p class="container5_heading1"><span class="container5_heading1_precise">A powerful API and webhooks developers will love</span></p>            
@@ -93,7 +94,7 @@
                 </a>
             </div>
             <span>
-                <img src="Images/Illustration3.png" alt="container5-illustation1" class="container5-illustation1">
+                <img src="Images/Illustration3.png" alt="container5-illustation1" class="container5-illustation1" data-aos="fade-left" data-aos-anchor-placement="center-center" data-aos-duration="1000">
             </span>
         </section>
         <div class="section2">
@@ -156,6 +157,10 @@
             <div class="divider"></div>
             <span class="text_end">© 2021  Numeral. Tout droits réservés</span>
         </footer>    
+        <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+        <script>
+            AOS.init();
+          </script>
         <script src="script.js"></script>
     </body>
 </div>
