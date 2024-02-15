@@ -545,9 +545,9 @@ section {
     font-weight: 700;
     line-height: 61.6px;
     letter-spacing: 0em;
-    text-align: center;
     color: white;
     padding: -100px 0px;
+    margin-left: 456px;
 }
 
 .heading4 {
@@ -555,10 +555,9 @@ section {
     font-size: 56px;
     font-weight: 400;
     line-height: 61.6px;
-    text-align: center;
     color: white;
+    margin-left: 486px;
 }
-
 .talk-to-an-expert3 {
     margin: 32px 0px;
     width: 200px;
@@ -579,6 +578,7 @@ section {
     line-height: 16px;
     letter-spacing: 0em;
     text-align: center;
+    margin-left: 646px;
 }
 
 .container6 {
@@ -586,6 +586,7 @@ section {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    margin-left: 556px;
 }
 
 .container6-text {
@@ -608,8 +609,6 @@ section {
 .container7 {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    text-align: center;
 }
 
 footer {
