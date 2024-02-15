@@ -652,18 +652,17 @@ footer {
 .Features,
 .About,
 .nothing {
-    width: 166px;
-    height: 20px;
-    font-family: 'Neurial Grotesk';
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 20px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #FFFFFF;
-    display: block;
-    font-weight: bold;
-    margin-bottom: 16px;
+    width: 166px !important;
+    height: 20px !important;
+    font-family: 'Neurial Grotesk'!important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    line-height: 20px !important;
+    letter-spacing: 0em !important;
+    text-align: left !important;
+    color: #FFFFFF !important;
+    display: block !important;
+    margin-bottom: 16px !important;
 }
 
 .footer-section li a {
@@ -677,21 +676,21 @@ footer {
     height: 21px;
     color: #FFFFFF;
     display: block;
-    padding: 8px 0px;
+    padding: 4px 0px;
 }
 
 .Social {
-    height: 20px;
-    font-family: 'Neurial Grotesk';
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 20px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #FFFFFF;
-    display: block;
-    font-weight: bold;
-    margin-bottom: 39px;
+    height: 20px !important;
+    font-family: 'Neurial Grotesk'!important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    line-height: 20px !important;
+    letter-spacing: 0em !important;
+    text-align: left !important;
+    color: #FFFFFF !important;
+    display: block !important;
+    font-weight: bold !important;
+    margin-bottom: 30px !important;
 }
 
 .footer-section2 li a:not(.social) {
@@ -708,7 +707,7 @@ footer {
 }
 
 .footer-section2 li:not(.Social) {
-    margin-bottom: 30px;
+    margin-bottom: 16px;
 }
 
 .footer-section4-linkedin-svg {
