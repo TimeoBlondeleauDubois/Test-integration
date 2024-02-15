@@ -3,14 +3,15 @@
     padding: 0;
     text-decoration: none;
     list-style: none;
+    box-sizing: border-box;
 }
 
 body {
     margin: 0;
-    overflow-x: hidden; 
 }
 
 header {
+    min-width: 1600px;
     height: 768px;
     background-color: #3B61F4;
     margin-top: 0;
@@ -108,9 +109,7 @@ header {
     height: 50px;
     padding: 21.5px 24px;
     border-radius: 8px;
-    border: 1px solid;
-    border-image-source: linear-gradient(93.97deg, rgba(255, 255, 255, 0.1) 2.56%, rgba(255, 255, 255, 0) 95.26%);
-    background: linear-gradient(0deg, #1E3076, #1E3076), linear-gradient(93.97deg, rgba(255, 255, 255, 0.1) 2.56%, rgba(255, 255, 255, 0) 95.26%);
+    background: #1E3076;
     gap: 8px;
     box-shadow: 0px 4px 8px 0px #0000001A;
     display: flex;
@@ -123,7 +122,9 @@ header {
     line-height: 16px;
     letter-spacing: 0em;
     text-align: center;
+    border: none;
 }
+
 
 .talk-to-an-expert2 {
     margin: -4px 1157.7px;
@@ -132,8 +133,7 @@ header {
     padding: 21.5px 24px;
     border-radius: 8px;
     border: 1px solid;
-    border-image-source: linear-gradient(93.97deg, rgba(255, 255, 255, 0.1) 2.56%, rgba(255, 255, 255, 0) 95.26%);
-    background: linear-gradient(0deg, #1E3076, #1E3076), linear-gradient(93.97deg, rgba(255, 255, 255, 0.1) 2.56%, rgba(255, 255, 255, 0) 95.26%);
+    background: #1E3076;
     gap: 8px;
     box-shadow: 0px 4px 8px 0px #0000001A;
     display: flex;
@@ -146,10 +146,12 @@ header {
     line-height: 16px;
     letter-spacing: 0em;
     text-align: center;
+    border: none;
 }
 
 .svg-icon {
-    margin-bottom: 8.88px;
+    margin-bottom: 4.5px;
+    margin-left: 3px;
 }
 
 .container2 {
@@ -565,8 +567,7 @@ section {
     height: 50px;
     border-radius: 8px;
     border: 1px solid;
-    border-image-source: linear-gradient(93.97deg, rgba(255, 255, 255, 0.1) 2.56%, rgba(255, 255, 255, 0) 95.26%);
-    background: linear-gradient(0deg, #1E3076, #1E3076), linear-gradient(93.97deg, rgba(255, 255, 255, 0.1) 2.56%, rgba(255, 255, 255, 0) 95.26%);
+    background: #1E3076;
     gap: 8px;
     box-shadow: 0px 4px 8px 0px #0000001A;
     display: flex;
@@ -580,6 +581,7 @@ section {
     letter-spacing: 0em;
     text-align: center;
     margin-left: 641px;
+    border: none;
 }
 
 .container6 {
@@ -615,7 +617,7 @@ section {
 footer {
     background-color: #0F183B;
     padding: 56px 119px;
-    padding-bottom: 97.75px;
+    padding-bottom: 140.75px;
     display: flex;
     margin: 33px 0px;
 }
@@ -723,7 +725,7 @@ footer {
     width: 1200px;
     height: 1px;
     position: absolute;
-    top: 3243px;
+    top: 3193px;
     left: 120px;
     background: #FFFFFF1A;
     border: 0px solid #FFFFFF1A;
@@ -743,6 +745,20 @@ footer {
     margin: 227px 500px;
 }
 
-.zoom {
-    zoom: 1.29;
+@media screen and (max-width: 480px) { /*téléphone*/
+
+}
+
+@media screen and (min-width: 480px) and (max-width: 1440px) { /*pc portable*/
+
+}
+
+@media screen and (min-width: 1920px) { /*pc grd écran*/
+    .zoom {
+        zoom: 1.29;
+    }
+
+    body {
+        overflow-x: hidden; 
+    }
 }
