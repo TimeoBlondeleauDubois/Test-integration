@@ -536,7 +536,7 @@ section {
     height: 440px !important;
     background-color: #3B61F4;
     margin-top: 0;
-    padding-top: 71px;
+    padding-top: 66px;
 }
 
 .heading3 {
@@ -547,7 +547,7 @@ section {
     letter-spacing: 0em;
     color: white;
     padding: -100px 0px;
-    margin-left: 456px;
+    margin-left: 451px;
 }
 
 .heading4 {
@@ -556,7 +556,7 @@ section {
     font-weight: 400;
     line-height: 61.6px;
     color: white;
-    margin-left: 486px;
+    margin-left: 481px;
 }
 .talk-to-an-expert3 {
     margin: 32px 0px;
@@ -578,7 +578,7 @@ section {
     line-height: 16px;
     letter-spacing: 0em;
     text-align: center;
-    margin-left: 646px;
+    margin-left: 641px;
 }
 
 .container6 {
@@ -586,7 +586,7 @@ section {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    margin-left: 556px;
+    margin-left: 551px;
 }
 
 .container6-text {
@@ -740,4 +740,8 @@ footer {
     text-align: left;
     color: #FFFFFF;
     margin: 227px 500px;
+}
+
+.zoom {
+    zoom: 1.29;
 }
