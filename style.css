@@ -536,6 +536,7 @@ section {
 }
 
 .section2 {
+    min-width: 1600px;
     height: 440px !important;
     background-color: #3B61F4;
     margin-top: 0;
@@ -582,6 +583,7 @@ section {
     text-align: center;
     margin-left: 641px;
     border: none;
+    z-index: +1;
 }
 
 .container6 {
@@ -602,11 +604,13 @@ section {
     height: 21px;
     color: #ffffff;
     opacity: 80%;
+    z-index: +1;
 }
 
 .container6-logo1 {
     margin-left: 32px;
     margin-right: 32px;
+    z-index: +1;
 }
 
 .container7 {
@@ -615,6 +619,7 @@ section {
 }
 
 footer {
+    min-width: 1600px;
     background-color: #0F183B;
     padding: 56px 119px;
     padding-bottom: 140.75px;
@@ -749,8 +754,10 @@ footer {
 
 }
 
-@media screen and (min-width: 480px) and (max-width: 1440px) { /*pc portable*/
-
+@media screen and (min-width: 480px) and (max-width: 1440px) { /*pc portable, rien à mettre car je l'ai fait de base avec la résolution de 1440px*/
+    body {
+        overflow-x: hidden; 
+    }
 }
 
 @media screen and (min-width: 1920px) { /*pc grd écran*/
