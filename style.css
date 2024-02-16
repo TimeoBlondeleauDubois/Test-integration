@@ -798,9 +798,7 @@ footer {
 }
 
 @media (max-width: 480px) { /*téléphone*/
-    body {
-        overflow-x: hidden; 
-    }
+
 }
 
 @media (min-width: 480px) and (max-width: 1920px) { /*pc portable, rien à mettre car je l'ai fait de base avec la résolution de 1440px*/
