@@ -627,34 +627,50 @@ footer {
     margin: 33px 0px;
 }
 
+.background { /*pour que les lumières passent en dessous du back bleu*/
+    position: absolute;
+    top: 2929px;
+    left: 0;
+    width: 100%;
+    height: 200px;
+    background-color: #0F183B;
+    z-index: 2; 
+}
+
 .footer-logo {
     margin-right: 212.23px;
+    z-index: 3;
 }
 
 .footer-links {
     display: flex;
     flex-direction: row;
+    z-index: 3;
 }
 
 .footer-section {
     color: white;
     width: 221px;
+    z-index: 3;
 }
 
 .footer-section ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    z-index: 3;
 }
 
 .footer-section2 ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    z-index: 3;
 }
 
 .footer-section h3 {
     font-size: 18px;
+    z-index: 3;
 }
 
 .Features,
@@ -671,6 +687,7 @@ footer {
     color: #FFFFFF !important;
     display: block !important;
     margin-bottom: 16px !important;
+    z-index: 3;
 }
 
 .footer-section li a {
@@ -685,6 +702,7 @@ footer {
     color: #FFFFFF;
     display: block;
     padding: 4px 0px;
+    z-index: 3;
 }
 
 .Social {
@@ -699,6 +717,7 @@ footer {
     display: block !important;
     font-weight: bold !important;
     margin-bottom: 30px !important;
+    z-index: 3;
 }
 
 .footer-section2 li a:not(.social) {
@@ -712,18 +731,22 @@ footer {
     height: 21px;
     color: #FFFFFF;
     display: block;
+    z-index: 3;
 }
 
 .footer-section2 li:not(.Social) {
     margin-bottom: 16px;
+    z-index: 3;
 }
 
 .footer-section4-linkedin-svg {
     margin-right: 7px;
+    z-index: 3;
 }
 
 .footer-section4-twitter-svg {
     margin-right: 7px;
+    z-index: 3;
 }
 
 .divider {
@@ -734,6 +757,7 @@ footer {
     left: 120px;
     background: #FFFFFF1A;
     border: 0px solid #FFFFFF1A;
+    z-index: 3;
 }
 
 .text_end {
@@ -748,6 +772,7 @@ footer {
     text-align: left;
     color: #FFFFFF;
     margin: 227px 500px;
+    z-index: 3;
 }
 
 @media screen and (max-width: 480px) { /*téléphone*/
@@ -770,7 +795,7 @@ footer {
     }
 }
 
-.ligne_verticale1 {
+.ligne_horizontale1 {
     width: 1455px;
     height: 0.775px;
     position: absolute;
@@ -778,7 +803,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_verticale2 {
+.ligne_horizontale2 {
     width: 1455px;
     height: 0.775px;
     position: absolute;
@@ -786,7 +811,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_verticale3 {
+.ligne_horizontale3 {
     width: 1455px;
     height: 0.775px;
     position: absolute;
@@ -794,7 +819,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_verticale4 {
+.ligne_horizontale4 {
     width: 1455px;
     height: 0.775px;
     position: absolute;
@@ -802,7 +827,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_verticale5 {
+.ligne_horizontale5 {
     width: 1455px;
     height: 0.775px;
     position: absolute;
@@ -810,7 +835,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_verticale6 {
+.ligne_horizontale6 {
     width: 1455px;
     height: 0.775px;
     position: absolute;
@@ -818,7 +843,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale1 {
+.ligne_verticale1 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -827,7 +852,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale2 {
+.ligne_verticale2 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -836,7 +861,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale3 {
+.ligne_verticale3 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -845,7 +870,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale4 {
+.ligne_verticale4 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -854,7 +879,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale5 {
+.ligne_verticale5 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -863,7 +888,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale6 {
+.ligne_verticale6 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -872,7 +897,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale6 {
+.ligne_verticale6 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -881,7 +906,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale8 {
+.ligne_verticale8 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -890,7 +915,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale9 {
+.ligne_verticale9 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -899,7 +924,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale10 {
+.ligne_verticale10 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -908,7 +933,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale11 {
+.ligne_verticale11 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -917,7 +942,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale12 {
+.ligne_verticale12 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -926,7 +951,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale13 {
+.ligne_verticale13 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -935,7 +960,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale14 {
+.ligne_verticale14 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -944,7 +969,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale15 {
+.ligne_verticale15 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -953,7 +978,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale16 {
+.ligne_verticale16 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -962,7 +987,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale17 {
+.ligne_verticale17 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -971,7 +996,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale18 {
+.ligne_verticale18 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -980,7 +1005,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale19 {
+.ligne_verticale19 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -989,7 +1014,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale20 {
+.ligne_verticale20 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -998,7 +1023,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale21 {
+.ligne_verticale21 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -1007,7 +1032,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale22 {
+.ligne_verticale22 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -1016,7 +1041,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale23 {
+.ligne_verticale23 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -1025,7 +1050,7 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale24 {
+.ligne_verticale24 {
     width: 0.775px;
     height: 429px;
     position: absolute;
@@ -1034,11 +1059,21 @@ footer {
     background: #ffffff1a;
 }
 
-.ligne_horizontale25 {
+.ligne_verticale25 {
     width: 0.775px;
     height: 429px;
     position: absolute;
     top: 2500px;
     left: 1466px;
     background: #ffffff1a;
+}
+
+.lumiere {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 40px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
 }
