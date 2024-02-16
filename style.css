@@ -130,7 +130,6 @@ header {
 
 
 .talk-to-an-expert2 {
-    margin: -4px 1157.7px;
     width: 200px;
     height: 50px;
     padding: 21.5px 24px;
@@ -151,6 +150,9 @@ header {
     text-align: center;
     border: none;
     z-index: 10;
+    opacity: 1;
+    position: absolute;
+    left: 1135px;
 }
 
 .svg-icon {
