@@ -887,3 +887,14 @@
     z-index: 2;
     transform: rotate(5deg);
 }
+
+.recourvir_degat_flou {
+    position: absolute;
+    width: 900px;
+    height: 110px;
+    top: 768px;
+    left: 0px;
+    overflow: hidden;
+    background: #ffffff;
+    z-index: 12;
+}
