@@ -898,3 +898,14 @@
     background: #ffffff;
     z-index: 12;
 }
+
+.lumiered1 {
+    width: 1px;
+    height: 79px;
+    top: 0px;
+    left: 946px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 100; 
+    transform: rotate(60deg);
+}
