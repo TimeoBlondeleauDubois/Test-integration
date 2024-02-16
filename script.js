@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", function() {1000
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -35,8 +35,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -59,8 +59,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -83,8 +83,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -107,8 +107,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -131,8 +131,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -155,8 +155,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -179,8 +179,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -203,8 +203,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -227,8 +227,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -251,8 +251,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -275,8 +275,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -299,8 +299,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -323,8 +323,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -347,8 +347,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -371,8 +371,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -395,8 +395,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -419,8 +419,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -443,8 +443,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -467,8 +467,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -491,8 +491,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -515,8 +515,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -539,8 +539,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -563,8 +563,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
@@ -587,8 +587,8 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '2420px';
-                setTimeout(deplacerLumiere, 30000);
-            }, 30000);
+                setTimeout(deplacerLumiere, 50000);
+            }, 50000);
         } else {
 
             setTimeout(deplacerLumiere, 1000);
