@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    min-width: 1600px;
+    max-width: 1488px;
     height: 768px;
     background-color: #3B61F4;
     margin-top: 0;
@@ -560,6 +560,7 @@ section {
     background-color: #3B61F4;
     margin-top: 0;
     padding-top: 66px;
+    max-width: 1488px;
 }
 
 .heading3 {
@@ -645,6 +646,7 @@ footer {
     padding-bottom: 140.75px;
     display: flex;
     margin: 33px 0px;
+    max-width: 1488px;
 }
 
 .background { /*pour que les lumières passent en dessous du back bleu*/
@@ -799,11 +801,19 @@ footer {
     body {
         overflow-x: hidden; 
     }
+
+    .zoom {
+        zoom: 1.28;
+    }
 }
 
-@media (min-width: 480px) and (max-width: 1440px) { /*pc portable, rien à mettre car je l'ai fait de base avec la résolution de 1440px*/
+@media (min-width: 480px) and (max-width: 1920px) { /*pc portable, rien à mettre car je l'ai fait de base avec la résolution de 1440px*/
     body {
         overflow-x: hidden; 
+    }
+
+    .zoom {
+        zoom: 1.28;
     }
 }
 
@@ -816,3 +826,46 @@ footer {
         overflow-x: hidden; 
     }
 }
+
+@media (min-width: 2112px) { /* a partir d'ici si quelqu'un dézoome sa ne marche pas ici pour 90%*/
+    .zoom {
+        zoom: 1.423;
+    }
+}
+
+@media (min-width: 2323px) { /* ici pour 80%*/
+    .zoom {
+        zoom: 1.60;
+    }
+}
+
+@media (min-width: 2439px) { /* ici pour 75%*/
+    .zoom {
+        zoom: 1.7067;
+    }
+}
+
+@media (min-width: 2634px) { /* ici pour 67%*/
+    .zoom {
+        zoom: 1.92;
+    }
+}
+
+@media (min-width: 3604px) { /* ici pour 50%*/
+    .zoom {
+        zoom: 2.56;
+    }
+}
+
+@media (min-width: 4604px) { /* ici pour 33%*/
+    .zoom {
+        zoom: 3.84;
+    }
+}
+
+@media (min-width: 6804px) { /* ici pour 25%*/
+    .zoom {
+        zoom: 5.12;
+    }
+}
+
