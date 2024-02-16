@@ -11,7 +11,6 @@ body {
 }
 
 header {
-    max-width: 1488px;
     height: 768px;
     background-color: #3B61F4;
     margin-top: 0;
@@ -798,7 +797,9 @@ footer {
 }
 
 @media (max-width: 480px) { /*téléphone*/
-
+    body {
+        overflow-x: hidden; 
+    }
 }
 
 @media (min-width: 480px) and (max-width: 1920px) { /*pc portable, rien à mettre car je l'ai fait de base avec la résolution de 1440px*/
