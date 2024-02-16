@@ -902,10 +902,186 @@
 .lumiered1 {
     width: 1px;
     height: 79px;
-    top: 0px;
-    left: 946px;
+    top: 696px;
+    left: 1521px;
     background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
-    z-index: 100; 
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered2 {
+    width: 1px;
+    height: 79px;
+    top: 603px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered3 {
+    width: 1px;
+    height: 79px;
+    top: 510px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered4 {
+    width: 1px;
+    height: 79px;
+    top: 416px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered5 {
+    width: 1px;
+    height: 79px;
+    top: 323px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered6 {
+    width: 1px;
+    height: 79px;
+    top: 229px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered7 {
+    width: 1px;
+    height: 79px;
+    top: 135px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered8 {
+    width: 1px;
+    height: 79px;
+    top: 42px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered9 {
+    width: 1px;
+    height: 79px;
+    top: -52px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered10 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 1372px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered11 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 1210px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered12 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 1049px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered13 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 887px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered14 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 725px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered15 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 563px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered16 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 401px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered17 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 239px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
     transform: rotate(60deg);
 }
