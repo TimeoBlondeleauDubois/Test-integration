@@ -583,7 +583,7 @@ section {
     text-align: center;
     margin-left: 641px;
     border: none;
-    z-index: +1;
+    z-index: 7;
 }
 
 .container6 {
@@ -592,6 +592,7 @@ section {
     justify-content: flex-start;
     align-items: center;
     margin-left: 551px;
+    z-index: 7;
 }
 
 .container6-text {
@@ -893,15 +894,6 @@ footer {
     height: 429px;
     position: absolute;
     top: 2500px;
-    left: 350px;
-    background: #ffffff1a;
-}
-
-.ligne_verticale6 {
-    width: 0.775px;
-    height: 429px;
-    position: absolute;
-    top: 2500px;
     left: 412px;
     background: #ffffff1a;
 }
@@ -1073,6 +1065,246 @@ footer {
     height: 79px;
     top: 2420px;
     left: 40px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere1 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 40px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1;
+}
+
+.lumiere2 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 102px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere3 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 164px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere4 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 226px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere5 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 288px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere6 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 412px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere7 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 474px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere8 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 536px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere9 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 598px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere10 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 660px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere11 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 722px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere12 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 784px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere13 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 350px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere14 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 846px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere15 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 908px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere16 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 970px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere17 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 1032px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere18 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 1094px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere19 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 1156px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere20 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 1218px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere21 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 1280px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere22 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 1342px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere23 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 1404px;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere24 {
+    width: 1px;
+    height: 79px;
+    top: 2420px;
+    left: 1466px;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
