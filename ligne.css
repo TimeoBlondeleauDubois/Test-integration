@@ -667,6 +667,28 @@
     z-index: 0;
 }
 
+.diagonaleg16 {
+    width: 3100.42px;
+    height: 0.775px;
+    position: absolute;
+    top: 0px;
+    left: -1184px;
+    transform: rotate(150deg);
+    background: #ffffff1a;
+    z-index: 0;
+}
+
+.diagonaleg17 {
+    width: 3100.42px;
+    height: 0.775px;
+    position: absolute;
+    top: 0px;
+    left: -1346px;
+    transform: rotate(150deg);
+    background: #ffffff1a;
+    z-index: 0;
+}
+
 .diagonaled1 {
     width: 3100.42px;
     height: 0.775px;
@@ -851,5 +873,17 @@
     left: -2148px;
     transform: rotate(30deg);
     background: #ffffff1a;
-    z-index: 0;
+    
+}
+
+.flou { /*ligne de plus en plus flou*/
+    position: absolute;
+    width: 1000px;
+    height: 898px;
+    top: -70px;
+    left: -70px;
+    overflow: hidden;
+    background: linear-gradient(to right, #3b60f4, #3b60f43b);
+    z-index: 2;
+    transform: rotate(5deg);
 }

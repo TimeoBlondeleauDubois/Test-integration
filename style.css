@@ -125,6 +125,7 @@ header {
     letter-spacing: 0em;
     text-align: center;
     border: none;
+    z-index: 10;
 }
 
 
@@ -149,6 +150,7 @@ header {
     letter-spacing: 0em;
     text-align: center;
     border: none;
+    z-index: 10;
 }
 
 .svg-icon {
@@ -246,6 +248,7 @@ header {
 section {
     height: 1747px;
     background-color: #ffffff;
+    z-index: 12;
 }
 
 .container3 {
@@ -253,6 +256,7 @@ section {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    z-index: 12;
 }
 
 .container3_heading {
@@ -266,10 +270,12 @@ section {
     width: 68px;
     height: 15px;
     padding-left: 8px;
+    z-index: 12;
 }
 
 .container3_heading1 {
     position: relative;
+    z-index: 12;
 }
 
 .container3_heading1_precise {
@@ -285,11 +291,13 @@ section {
     position: absolute;
     top: 16px;
     left: -106px;
+    z-index: 12;
 }
 
 .container3_heading2 {
     position: relative;
     left: -106px;
+    z-index: 12;
 }
 
 .container3_heading2_precise {
@@ -304,6 +312,7 @@ section {
     color: #616575;
     position: absolute;
     top: 150px;
+    z-index: 12;
 }
 
 .explore_coverage {
@@ -320,6 +329,7 @@ section {
     position: absolute;
     margin-top: 271px;
     left: 122px;
+    z-index: 12;
 }  
 
 .container3_btn_text {
@@ -527,16 +537,19 @@ section {
 .container3-illustation1 {
     margin-left: 725px;
     margin-top: -225px;
+    z-index: 12;
 }
 
 .container4-illustation1 {
     margin-left: 725px;
     margin-top: -205px;
+    z-index: 12;
 }
 
 .container5-illustation1 {
     margin-left: 725px;
     margin-top: -160px;
+    z-index: 12;
 }
 
 .section2 {
@@ -780,17 +793,17 @@ footer {
     z-index: 3;
 }
 
-@media screen and (max-width: 480px) { /*téléphone*/
+@media (max-width: 480px) { /*téléphone*/
 
 }
 
-@media screen and (min-width: 480px) and (max-width: 1440px) { /*pc portable, rien à mettre car je l'ai fait de base avec la résolution de 1440px*/
+@media (min-width: 480px) and (max-width: 1440px) { /*pc portable, rien à mettre car je l'ai fait de base avec la résolution de 1440px*/
     body {
         overflow-x: hidden; 
     }
 }
 
-@media screen and (min-width: 1920px) { /*pc grd écran*/
+@media (min-width: 1920px) { /*pc grd écran*/
     .zoom {
         zoom: 1.28;
     }
