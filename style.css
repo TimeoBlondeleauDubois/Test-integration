@@ -856,16 +856,6 @@ footer {
     }
 }
 
-@font-face {
-    font-family: 'Roboto';
-    src: url('chemin/vers/le/fichier/Roboto-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Roboto';
-    src: url('chemin/vers/le/fichier/Roboto-Regular.ttf') format('truetype');
-}
-
 @media (min-width: 1745px) and (max-width: 1919px) {
     .zoom {
         zoom: 1.1636;
@@ -882,4 +872,9 @@ footer {
     .zoom {
         zoom: 0.8535;
     }
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('chemin/vers/le/fichier/Roboto-Regular.ttf') format('truetype');
 }
