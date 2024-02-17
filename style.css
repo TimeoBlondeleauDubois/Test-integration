@@ -799,16 +799,10 @@ footer {
 }
 
 
-/* Résolution en fonction de la taille des écrans*/
-@media (min-width: 1500px) and (max-width: 1600px) {
+/* vu que je ne savais pas qu'il fallait utiliser des vh et vw voici des zoom selon les différente taille d'écran pour que le site soit a la bonne taille*/
+@media (min-width: 1200px) and (max-width: 1919px) { /*écran portable 1440 px */
     .zoom {
         zoom: 1.023;
-    }
-}
-
-@media (min-width: 1600px) and (max-width: 1919px) {
-    .zoom {
-        zoom: 1.17;
     }
 }
 
@@ -818,7 +812,7 @@ footer {
     }
 }
 
-@media (min-width: 2112px) {
+@media (min-width: 2112px) { /*contre le dézoome sur écran 1920px*/
     .zoom {
         zoom: 1.423;
     }
