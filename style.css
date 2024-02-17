@@ -902,7 +902,7 @@ footer {
     }
 }
 
-@media (min-width: 1px) and (max-width: 479px) {
+@media (min-width: 384px) and (max-width: 479px) {
     .zoom {
         zoom: 0.2561;
     }
