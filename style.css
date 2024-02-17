@@ -8,6 +8,7 @@
 
 body {
     margin: 0;
+    overflow-x: hidden; 
 }
 
 header {
@@ -797,71 +798,78 @@ footer {
     z-index: 3;
 }
 
-@media (max-width: 480px) { /*téléphone*/
-    body {
-        overflow-x: hidden; 
-    }
+@media (max-width: 480px) {
+
 }
 
-@media (min-width: 480px) and (max-width: 1920px) { /*pc portable, rien à mettre car je l'ai fait de base avec la résolution de 1440px*/
-    body {
-        overflow-x: hidden; 
-    }
-
+@media (min-width: 1440px) {
     .zoom {
         zoom: 1.28;
     }
 }
 
-@media (min-width: 1920px) { /*pc grd écran*/
+@media (min-width: 1920px) {
     .zoom {
         zoom: 1.28;
     }
-
-    body {
-        overflow-x: hidden; 
-    }
 }
 
-@media (min-width: 2112px) { /* a partir d'ici si quelqu'un dézoome sa ne marche pas ici pour 90%*/
+@media (min-width: 2112px) {
     .zoom {
         zoom: 1.423;
     }
 }
 
-@media (min-width: 2323px) { /* ici pour 80%*/
+@media (min-width: 2323px) {
     .zoom {
         zoom: 1.60;
     }
 }
 
-@media (min-width: 2439px) { /* ici pour 75%*/
+@media (min-width: 2439px) {
     .zoom {
         zoom: 1.7067;
     }
 }
 
-@media (min-width: 2634px) { /* ici pour 67%*/
+@media (min-width: 2634px) {
     .zoom {
         zoom: 1.92;
     }
 }
 
-@media (min-width: 3604px) { /* ici pour 50%*/
+@media (min-width: 3604px) {
     .zoom {
         zoom: 2.56;
     }
 }
 
-@media (min-width: 4604px) { /* ici pour 33%*/
+@media (min-width: 4604px) {
     .zoom {
         zoom: 3.84;
     }
 }
 
-@media (min-width: 6804px) { /* ici pour 25%*/
+@media (min-width: 6804px) {
     .zoom {
         zoom: 5.12;
     }
 }
 
+@media (min-width: 1745px) and (max-width: 1919px) {
+    .zoom {
+        zoom: 1.1636;
+    }
+}
+
+@media (min-width: 1536px) and (max-width: 1744px) {
+    .zoom {
+        zoom: 1.024;
+    }
+}
+
+@media (min-width: 1235px) and (max-width: 1535px) {
+    .zoom {
+        zoom: 0.8535;
+    }
+}
