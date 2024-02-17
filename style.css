@@ -798,13 +798,11 @@ footer {
     z-index: 3;
 }
 
-@media (max-width: 480px) {
 
-}
-
+/* Résolution en fonction de la taille des écrans*/
 @media (min-width: 1440px) {
     .zoom {
-        zoom: 1.023;  /*fix centrer*/
+        zoom: 1.023;
     }
 }
 
@@ -873,6 +871,43 @@ footer {
         zoom: 0.8535;
     }
 }
+
+@media (min-width: 1097px) and (max-width: 1234px) {
+    .zoom {
+        zoom: 0.7315;
+    }
+}
+
+@media (min-width: 960px) and (max-width: 1096px) {
+    .zoom {
+        zoom: 0.6402;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 959px) {
+    .zoom {
+        zoom: 0.512;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+    .zoom {
+        zoom: 0.4267;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 639px) {
+    .zoom {
+        zoom: 0.3201;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 479px) {
+    .zoom {
+        zoom: 0.2561;
+    }
+}
+
 
 @font-face {
     font-family: 'Roboto';
