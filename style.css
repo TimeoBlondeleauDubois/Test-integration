@@ -910,6 +910,11 @@ footer {
 
 
 @font-face {
-    font-family: 'Roboto';
-    src: url('chemin/vers/le/fichier/Roboto-Regular.ttf') format('truetype');
+    font-family: 'Neurial Grotesk';
+    src: url('ttf/Neurial-Grotesk-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('ttf/Inter-Regular.ttf') format('truetype');
 }
