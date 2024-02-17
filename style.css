@@ -800,15 +800,9 @@ footer {
 
 
 /* Résolution en fonction de la taille des écrans*/
-@media (min-width: 1440px) {
+@media (min-width: 1500px) and (max-width: 1600px) {
     .zoom {
         zoom: 1.023;
-    }
-}
-
-@media (min-width: 1400px) and (max-width: 1599px) {
-    .zoom {
-        zoom: 1.17;
     }
 }
 
