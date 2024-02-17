@@ -1085,3 +1085,150 @@
     z-index: 1; 
     transform: rotate(60deg);
 }
+
+.plus1 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 684px;
+    left: 793px;
+    transform: rotate(30deg);
+    background: #6a85f2; 
+}
+
+.plus2 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 684px;
+    left: 793px;
+    transform: rotate(150deg);
+    background: #6a85f2;
+    z-index: 0;
+}
+
+.plus3 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 402px;
+    left: 795px;
+    transform: rotate(30deg);
+    background: #6a85f2; 
+}
+
+.plus4 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 402px;
+    left: 795px;
+    transform: rotate(150deg);
+    background: #6a85f2;
+    z-index: 0;
+}
+
+.plus5 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 120px;
+    left: 799px;
+    transform: rotate(30deg);
+    background: #6a85f2; 
+}
+
+.plus6 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 120px;
+    left: 799px;
+    transform: rotate(150deg);
+    background: #6a85f2;
+    z-index: 0;
+}
+
+.plus7 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 119px;
+    left: 1125px;
+    transform: rotate(30deg);
+    background: #6a85f2; 
+}
+
+.plus8 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 119px;
+    left: 1125px;
+    transform: rotate(150deg);
+    background: #6a85f2;
+    z-index: 0;
+}
+
+.plus9 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 118px;
+    left: 1451px;
+    transform: rotate(30deg);
+    background: #6a85f2; 
+}
+
+.plus10 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 118px;
+    left: 1451px;
+    transform: rotate(150deg);
+    background: #6a85f2;
+    z-index: 0;
+}
+
+.plus11 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 683px;
+    left: 1445px;
+    transform: rotate(30deg);
+    background: #6a85f2; 
+}
+
+.plus12 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 683px;
+    left: 1445px;
+    transform: rotate(150deg);
+    background: #6a85f2;
+    z-index: 0;
+}
+
+.plus13 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 400px;
+    left: 1447px;
+    transform: rotate(30deg);
+    background: #6a85f2; 
+}
+
+.plus14 {
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    top: 400px;
+    left: 1447px;
+    transform: rotate(150deg);
+    background: #6a85f2;
+    z-index: 0;
+}

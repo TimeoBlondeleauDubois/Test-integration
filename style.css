@@ -806,6 +806,18 @@ footer {
     }
 }
 
+@media (min-width: 1400px) and (max-width: 1599px) {
+    .zoom {
+        zoom: 1.17;
+    }
+}
+
+@media (min-width: 1600px) and (max-width: 1919px) {
+    .zoom {
+        zoom: 1.17;
+    }
+}
+
 @media (min-width: 1920px) {
     .zoom {
         zoom: 1.28;
@@ -853,61 +865,6 @@ footer {
         zoom: 5.12;
     }
 }
-
-@media (min-width: 1745px) and (max-width: 1919px) {
-    .zoom {
-        zoom: 1.1636;
-    }
-}
-
-@media (min-width: 1536px) and (max-width: 1744px) {
-    .zoom {
-        zoom: 1.024;
-    }
-}
-
-@media (min-width: 1235px) and (max-width: 1535px) {
-    .zoom {
-        zoom: 0.8535;
-    }
-}
-
-@media (min-width: 1097px) and (max-width: 1234px) {
-    .zoom {
-        zoom: 0.7315;
-    }
-}
-
-@media (min-width: 960px) and (max-width: 1096px) {
-    .zoom {
-        zoom: 0.6402;
-    }
-}
-
-@media (min-width: 768px) and (max-width: 959px) {
-    .zoom {
-        zoom: 0.512;
-    }
-}
-
-@media (min-width: 640px) and (max-width: 767px) {
-    .zoom {
-        zoom: 0.4267;
-    }
-}
-
-@media (min-width: 480px) and (max-width: 639px) {
-    .zoom {
-        zoom: 0.3201;
-    }
-}
-
-@media (min-width: 384px) and (max-width: 479px) {
-    .zoom {
-        zoom: 0.2561;
-    }
-}
-
 
 @font-face {
     font-family: 'Neurial Grotesk';
