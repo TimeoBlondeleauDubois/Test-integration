@@ -804,7 +804,7 @@ footer {
 
 @media (min-width: 1440px) {
     .zoom {
-        zoom: 1.28;
+        zoom: 1.023;  /*fix centrer*/
     }
 }
 
@@ -854,6 +854,16 @@ footer {
     .zoom {
         zoom: 5.12;
     }
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('chemin/vers/le/fichier/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('chemin/vers/le/fichier/Roboto-Regular.ttf') format('truetype');
 }
 
 @media (min-width: 1745px) and (max-width: 1919px) {
