@@ -2,18 +2,18 @@ document.addEventListener("DOMContentLoaded", function() {
     const lumiere = document.querySelector('.lumiered1');
     
     function deplacerLumiere() {
-        const randomChance = Math.floor(Math.random() * 150) + 1;
+        const randomChance = Math.floor(Math.random() * 10) + 1;
         
         if (randomChance <= 1) {
-            const transitionTime = Math.floor(Math.random() * 1) + 1;
+            const transitionTime = Math.floor(Math.random() * 5) + 1;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '1431px';
-            lumiere.style.top = `749px`;
+            lumiere.style.left = '-10vw';
+            lumiere.style.top = `10vh`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '696px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '10vh';
+                lumiere.style.left = '110vw';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -23,6 +23,8 @@ document.addEventListener("DOMContentLoaded", function() {
     
     deplacerLumiere();
 });
+
+
 
 document.addEventListener("DOMContentLoaded", function() {
     const lumiere = document.querySelector('.lumiered2');
