@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    min-width: 1486px;
+    min-width: 1487px;
     height: 768px;
     background-color: #3B61F4;
     margin-top: 0;
@@ -798,6 +798,16 @@ footer {
     z-index: 3;
 }
 
+@font-face {
+    font-family: 'Neurial Grotesk';
+    src: url('ttf/Neurial-Grotesk-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('ttf/Inter-Regular.ttf') format('truetype');
+}
+
 
 /* vu que je ne savais pas qu'il fallait utiliser des vh et vw voici des zoom selon les différente taille d'écran pour que le site soit a la bonne taille*/
 @media (min-width: 1200px) and (max-width: 1919px) { /*écran portable 1440 px */
@@ -812,54 +822,7 @@ footer {
     }
 }
 
-@media (min-width: 2112px) { /*contre le dézoome sur écran 1920px*/
-    .zoom {
-        zoom: 1.423;
-    }
-}
-
-@media (min-width: 2323px) {
-    .zoom {
-        zoom: 1.60;
-    }
-}
-
-@media (min-width: 2439px) {
-    .zoom {
-        zoom: 1.7067;
-    }
-}
-
-@media (min-width: 2634px) {
-    .zoom {
-        zoom: 1.92;
-    }
-}
-
-@media (min-width: 3604px) {
-    .zoom {
-        zoom: 2.56;
-    }
-}
-
-@media (min-width: 4604px) {
-    .zoom {
-        zoom: 3.84;
-    }
-}
-
-@media (min-width: 6804px) {
-    .zoom {
-        zoom: 5.12;
-    }
-}
-
-@font-face {
-    font-family: 'Neurial Grotesk';
-    src: url('ttf/Neurial-Grotesk-Regular.ttf') format('truetype');
-}
-
-@font-face {
-    font-family: 'Inter';
-    src: url('ttf/Inter-Regular.ttf') format('truetype');
+.zoom {
+    max-width: 1487px;
+    min-width: 1487px;
 }
