@@ -1,272 +1,317 @@
 .ligne_horizontale1 {
-    width: 1455px;
+    width: 95vw;
     height: 0.775px;
-    position: absolute;
-    top: 2568px;
+    position: relative;
+    top: 6.75vh;
     background: #ffffff1a;
 }
 
 .ligne_horizontale2 {
-    width: 1455px;
+    width: 95vw;
     height: 0.775px;
-    position: absolute;
-    top: 2630px;
+    position: relative;
+    top: 13.5vh;
     background: #ffffff1a;
 }
 
 .ligne_horizontale3 {
-    width: 1455px;
+    width: 95vw;
     height: 0.775px;
-    position: absolute;
-    top: 2692px;
+    position: relative;
+    top: 20.25vh;
     background: #ffffff1a;
 }
 
 .ligne_horizontale4 {
-    width: 1455px;
+    width: 95vw;
     height: 0.775px;
-    position: absolute;
-    top: 2754px;
+    position: relative;
+    top: 27vh;
     background: #ffffff1a;
 }
 
 .ligne_horizontale5 {
-    width: 1455px;
+    width: 95vw;
     height: 0.775px;
-    position: absolute;
-    top: 2816px;
+    position: relative;
+    top: 33.75vh;
     background: #ffffff1a;
 }
 
 .ligne_horizontale6 {
-    width: 1455px;
+    width: 95vw;
     height: 0.775px;
-    position: absolute;
-    top: 2878px;
+    position: relative;
+    top: 40.5vh;
     background: #ffffff1a;
 }
 
 .ligne_verticale1 {
     width: 0.775px;
-    height: 429px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 40px;
+    top: 320vh;
+    left: 3.3vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale2 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 102px;
+    top: 320vh;
+    left: 6.6vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale3 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 164px;
+    top: 320vh;
+    left: 9.9vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale4 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 226px;
+    top: 320vh;
+    left: 13.2vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale5 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 288px;
+    top: 320vh;
+    left: 16.5vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale6 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 412px;
+    top: 320vh;
+    left: 19.8vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale8 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 474px;
+    top: 320vh;
+    left: 23.1vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale9 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 536px;
+    top: 320vh;
+    left: 26.4vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale10 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 598px;
+    top: 320vh;
+    left: 29.7vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale11 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 660px;
+    top: 320vh;
+    left: 33vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale12 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 722px;
+    top: 320vh;
+    left: 36.3vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale13 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 784px;
+    top: 320vh;
+    left: 39.6vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale14 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 350px;
+    top: 320vh;
+    left: 42.9vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale15 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 846px;
+    top: 320vh;
+    left: 46.2vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale16 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 908px;
+    top: 320vh;
+    left: 49.5vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale17 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 970px;
+    top: 320vh;
+    left: 52.8vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale18 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 1032px;
+    top: 320vh;
+    left: 56.1vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale19 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 1094px;
+    top: 320vh;
+    left: 59.4vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale20 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 1156px;
+    top: 320vh;
+    left: 62.7vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale21 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 1218px;
+    top: 320vh;
+    left: 66vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale22 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 1280px;
+    top: 320vh;
+    left: 69.3vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale23 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 1342px;
+    top: 320vh;
+    left: 72.6vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale24 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 1404px;
+    top: 320vh;
+    left: 75.9vw;
     background: #ffffff1a;
 }
 
 .ligne_verticale25 {
-    width: 0.775px;
-    height: 429px;
+        width: 0.775px;
+    height: 90.6vh;
     position: absolute;
-    top: 2500px;
-    left: 1466px;
+    top: 320vh;
+    left: 79.2vw;
+    background: #ffffff1a;
+}
+
+.ligne_verticale26 {
+        width: 0.775px;
+    height: 90.6vh;
+    position: absolute;
+    top: 320vh;
+    left: 82.5vw;
+    background: #ffffff1a;
+}
+
+.ligne_verticale27 {
+        width: 0.775px;
+    height: 90.6vh;
+    position: absolute;
+    top: 320vh;
+    left: 85.8vw;
+    background: #ffffff1a;
+}
+
+.ligne_verticale28 {
+        width: 0.775px;
+    height: 90.6vh;
+    position: absolute;
+    top: 320vh;
+    left: 89.1vw;
+    background: #ffffff1a;
+}
+
+.ligne_verticale29 {
+        width: 0.775px;
+    height: 90.6vh;
+    position: absolute;
+    top: 320vh;
+    left: 92.4vw;
+    background: #ffffff1a;
+}
+
+.ligne_verticale30 {
+        width: 0.775px;
+    height: 90.6vh;
+    position: absolute;
+    top: 320vh;
+    left: 95.7vw;
     background: #ffffff1a;
 }
 
 .lumiere1 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 40px;
+    top: 310vh;
+    left: 3.3vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1;
@@ -275,8 +320,8 @@
 .lumiere2 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 102px;
+    top: 310vh;
+    left: 6.6vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -285,8 +330,8 @@
 .lumiere3 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 164px;
+    top: 310vh;
+    left: 9.9vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -295,8 +340,8 @@
 .lumiere4 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 226px;
+    top: 310vh;
+    left: 13.2vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -305,8 +350,8 @@
 .lumiere5 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 288px;
+    top: 310vh;
+    left: 16.5vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -315,8 +360,8 @@
 .lumiere6 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 412px;
+    top: 310vh;
+    left: 19.8vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -325,8 +370,8 @@
 .lumiere7 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 474px;
+    top: 310vh;
+    left: 23.1vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -335,8 +380,8 @@
 .lumiere8 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 536px;
+    top: 310vh;
+    left: 26.4vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -345,8 +390,8 @@
 .lumiere9 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 598px;
+    top: 310vh;
+    left: 29.7vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -355,8 +400,8 @@
 .lumiere10 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 660px;
+    top: 310vh;
+    left: 33vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -365,8 +410,8 @@
 .lumiere11 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 722px;
+    top: 310vh;
+    left: 36.3vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -375,8 +420,8 @@
 .lumiere12 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 784px;
+    top: 310vh;
+    left: 39.6vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -385,8 +430,8 @@
 .lumiere13 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 350px;
+    top: 310vh;
+    left: 42.9vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -395,8 +440,8 @@
 .lumiere14 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 846px;
+    top: 310vh;
+    left: 46.2vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -405,8 +450,8 @@
 .lumiere15 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 908px;
+    top: 310vh;
+    left: 49.5vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -415,8 +460,8 @@
 .lumiere16 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 970px;
+    top: 310vh;
+    left: 52.8vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -425,8 +470,8 @@
 .lumiere17 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 1032px;
+    top: 310vh;
+    left: 56.1vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -435,8 +480,8 @@
 .lumiere18 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 1094px;
+    top: 310vh;
+    left: 59.4vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -445,8 +490,8 @@
 .lumiere19 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 1156px;
+    top: 310vh;
+    left: 62.7vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -455,8 +500,8 @@
 .lumiere20 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 1218px;
+    top: 310vh;
+    left: 66vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -465,8 +510,8 @@
 .lumiere21 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 1280px;
+    top: 310vh;
+    left: 69.3vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -475,8 +520,8 @@
 .lumiere22 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 1342px;
+    top: 310vh;
+    left: 72.6vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -485,8 +530,8 @@
 .lumiere23 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 1404px;
+    top: 310vh;
+    left: 75.9vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -495,8 +540,58 @@
 .lumiere24 {
     width: 1px;
     height: 79px;
-    top: 2420px;
-    left: 1466px;
+    top: 310vh;
+    left: 79.2vw;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere25 {
+    width: 1px;
+    height: 79px;
+    top: 310vh;
+    left: 82.5vw;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere26 {
+    width: 1px;
+    height: 79px;
+    top: 310vh;
+    left: 85.8vw;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere27 {
+    width: 1px;
+    height: 79px;
+    top: 310vh;
+    left: 89.1vw;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere28 {
+    width: 1px;
+    height: 79px;
+    top: 310vh;
+    left: 92.4vw;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+}
+
+.lumiere29 {
+    width: 1px;
+    height: 79px;
+    top: 310vh;
+    left: 95.7vw;
     background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
@@ -888,7 +983,7 @@
     transform: rotate(5deg);
 }
 
-.recourvir_degat_oppacite {
+/*.recourvir_degat_oppacite {
     position: absolute;
     width: 900px;
     height: 110px;
@@ -897,7 +992,7 @@
     overflow: hidden;
     background: #ffffff;
     z-index: 12;
-}
+}*/
 
 .lumiered1 {
     width: 1px;

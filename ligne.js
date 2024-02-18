@@ -7,11 +7,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -31,11 +31,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -55,11 +55,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -79,11 +79,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -103,11 +103,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -127,11 +127,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -151,11 +151,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -175,11 +175,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -199,11 +199,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -223,11 +223,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -247,11 +247,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -271,11 +271,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -295,11 +295,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -319,11 +319,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -343,11 +343,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -367,11 +367,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -391,11 +391,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -415,11 +415,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -439,11 +439,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -463,11 +463,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -487,11 +487,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -511,11 +511,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -535,11 +535,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -559,11 +559,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -574,8 +574,7 @@ document.addEventListener("DOMContentLoaded", function() {
     deplacerLumiere();
 });
 
- /*si on veut pour la dernière colonne
- document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
     const lumiere = document.querySelector('.lumiere24');
     
     function deplacerLumiere() {
@@ -584,11 +583,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `3000px`;
+            lumiere.style.top = `400vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '2420px';
+                lumiere.style.top = '310vh';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -598,4 +597,147 @@ document.addEventListener("DOMContentLoaded", function() {
     
     deplacerLumiere();
 });
-*/
+
+document.addEventListener("DOMContentLoaded", function() {
+    const lumiere = document.querySelector('.lumiere24');
+    
+    function deplacerLumiere() {
+        const randomChance = Math.floor(Math.random() * 250) + 1;
+        
+        if (randomChance <= 1) {
+            const transitionTime = Math.floor(Math.random() * 9) + 5;
+            lumiere.style.transition = `top ${transitionTime}s linear`;
+            lumiere.style.top = `400vh`;
+
+            setTimeout(() => {
+                lumiere.style.transition = 'none';
+                lumiere.style.top = '310vh';
+                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+            }, transitionTime * 1000);
+        } else {
+            setTimeout(deplacerLumiere, 100);
+        }
+    }
+    
+    deplacerLumiere();
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const lumiere = document.querySelector('.lumiere25');
+    
+    function deplacerLumiere() {
+        const randomChance = Math.floor(Math.random() * 250) + 1;
+        
+        if (randomChance <= 1) {
+            const transitionTime = Math.floor(Math.random() * 9) + 5;
+            lumiere.style.transition = `top ${transitionTime}s linear`;
+            lumiere.style.top = `400vh`;
+
+            setTimeout(() => {
+                lumiere.style.transition = 'none';
+                lumiere.style.top = '310vh';
+                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+            }, transitionTime * 1000);
+        } else {
+            setTimeout(deplacerLumiere, 100);
+        }
+    }
+    
+    deplacerLumiere();
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const lumiere = document.querySelector('.lumiere26');
+    
+    function deplacerLumiere() {
+        const randomChance = Math.floor(Math.random() * 250) + 1;
+        
+        if (randomChance <= 1) {
+            const transitionTime = Math.floor(Math.random() * 9) + 5;
+            lumiere.style.transition = `top ${transitionTime}s linear`;
+            lumiere.style.top = `400vh`;
+
+            setTimeout(() => {
+                lumiere.style.transition = 'none';
+                lumiere.style.top = '310vh';
+                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+            }, transitionTime * 1000);
+        } else {
+            setTimeout(deplacerLumiere, 100);
+        }
+    }
+    
+    deplacerLumiere();
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const lumiere = document.querySelector('.lumiere27');
+    
+    function deplacerLumiere() {
+        const randomChance = Math.floor(Math.random() * 250) + 1;
+        
+        if (randomChance <= 1) {
+            const transitionTime = Math.floor(Math.random() * 9) + 5;
+            lumiere.style.transition = `top ${transitionTime}s linear`;
+            lumiere.style.top = `400vh`;
+
+            setTimeout(() => {
+                lumiere.style.transition = 'none';
+                lumiere.style.top = '310vh';
+                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+            }, transitionTime * 1000);
+        } else {
+            setTimeout(deplacerLumiere, 100);
+        }
+    }
+    
+    deplacerLumiere();
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const lumiere = document.querySelector('.lumiere28');
+    
+    function deplacerLumiere() {
+        const randomChance = Math.floor(Math.random() * 250) + 1;
+        
+        if (randomChance <= 1) {
+            const transitionTime = Math.floor(Math.random() * 9) + 5;
+            lumiere.style.transition = `top ${transitionTime}s linear`;
+            lumiere.style.top = `400vh`;
+
+            setTimeout(() => {
+                lumiere.style.transition = 'none';
+                lumiere.style.top = '310vh';
+                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+            }, transitionTime * 1000);
+        } else {
+            setTimeout(deplacerLumiere, 100);
+        }
+    }
+    
+    deplacerLumiere();
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const lumiere = document.querySelector('.lumiere29');
+    
+    function deplacerLumiere() {
+        const randomChance = Math.floor(Math.random() * 250) + 1;
+        
+        if (randomChance <= 1) {
+            const transitionTime = Math.floor(Math.random() * 9) + 5;
+            lumiere.style.transition = `top ${transitionTime}s linear`;
+            lumiere.style.top = `400vh`;
+
+            setTimeout(() => {
+                lumiere.style.transition = 'none';
+                lumiere.style.top = '310vh';
+                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+            }, transitionTime * 1000);
+        } else {
+            setTimeout(deplacerLumiere, 100);
+        }
+    }
+    
+    deplacerLumiere();
+});
