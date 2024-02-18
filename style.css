@@ -243,7 +243,7 @@ header {
 
 
 section {
-    height: 218vh;
+    height: 200vh;
     background-color: #ffffff;
     z-index: 12;
 }
@@ -514,7 +514,7 @@ section {
 
 .container3-illustation1 {
     top: -5vh;
-    left: 39.8194vw;
+    left: 43vw;
     z-index: 12;
     position: absolute;
     width: 40.27vw;
@@ -523,7 +523,7 @@ section {
 
 .container4-illustation1 {
     top: -5vh;
-    left: 39.8194vw;
+    left: 43vw;
     z-index: 12;
     position: absolute;
     width: 40.27vw;
@@ -532,7 +532,7 @@ section {
 
 .container5-illustation1 {
     top: -5vh;
-    left: 39.8194vw;
+    left: 43vw;
     z-index: 12;
     position: absolute;
     width: 40.27vw;
@@ -633,7 +633,7 @@ footer {
     position: absolute;
     width: 100%;
     background-color: #0F183B;
-    height: 41.27vh;
+    height: 42vh;
     z-index: 20;
 }
 
@@ -755,7 +755,7 @@ footer {
     width: 85vw;
     height: 1px;
     background: #ffffff2c;
-    margin-top: 34.6vh;
+    margin-top: 33.8vh;
     z-index: 21;
     margin-left: 7%;
 }

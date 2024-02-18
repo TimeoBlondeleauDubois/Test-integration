@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -127,7 +127,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -175,7 +175,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -199,7 +199,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -247,7 +247,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -271,7 +271,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -295,7 +295,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -319,7 +319,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -343,7 +343,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -367,7 +367,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -391,7 +391,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -415,7 +415,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -439,7 +439,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -463,7 +463,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -487,7 +487,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -511,7 +511,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -535,7 +535,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -559,7 +559,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -583,7 +583,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -607,7 +607,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -631,7 +631,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -655,7 +655,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -679,7 +679,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -703,7 +703,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
@@ -727,7 +727,7 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear`;
-            lumiere.style.top = `400vh`;
+            lumiere.style.top = `382vh`;
 
             setTimeout(() => {
                 lumiere.style.transition = 'none';
