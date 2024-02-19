@@ -1,8 +1,8 @@
-document.addEventListener("DOMContentLoaded", function() {
+/*document.addEventListener("DOMContentLoaded", function() {
     const lumiere = document.querySelector('.lumiered1');
     
     function deplacerLumiere() {
-        const randomChance = Math.floor(Math.random() * 10) + 1;
+        const randomChance = Math.floor(Math.random() * 150) + 1;
         
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 5) + 1;
@@ -440,4 +440,4 @@ document.addEventListener("DOMContentLoaded", function() {
     }
     
     deplacerLumiere();
-});
+}); */
