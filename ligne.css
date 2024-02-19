@@ -1315,17 +1315,7 @@
     background: linear-gradient(120deg, #3b60f4, #3b60f42f);
     z-index: 2;
 }
-/*
-.recourvir_degat_oppacite {
-    position: absolute;
-    width: 65vw;
-    height: 20vh;
-    top: 100.7vh;
-    overflow: hidden;
-    background: #ffffff;
-    z-index: 12;
-}
-*/
+
 .lumiered1 {
     width: 1px;
     height: 79px;
