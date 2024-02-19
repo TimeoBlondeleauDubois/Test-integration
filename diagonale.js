@@ -1,28 +1,28 @@
-    document.addEventListener("DOMContentLoaded", function() {
-        const lumiere = document.querySelector('.lumiered1');
+document.addEventListener("DOMContentLoaded", function() {
+    const lumiere = document.querySelector('.lumiered1');
+    
+    function deplacerLumiere() {
+        const randomChance = Math.floor(Math.random() * 150) + 1;
         
-        function deplacerLumiere() {
-            const randomChance = Math.floor(Math.random() * 150) + 1;
+        if (randomChance <= 1) {
+            const transitionTime = Math.floor(Math.random() * 1) + 1;
+            lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
+            lumiere.style.left = '1431px';
+            lumiere.style.top = `749px`;
             
-            if (randomChance <= 1) {
-                const transitionTime = Math.floor(Math.random() * 5) + 1;
-                lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-                lumiere.style.left = '89.02vw';
-                lumiere.style.top = `97.2vh`;
-                
-                setTimeout(() => {
-                    lumiere.style.transition = 'none';
-                    lumiere.style.top = '70vh';
-                    lumiere.style.left = '110vw';
-                    setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
-                }, transitionTime * 1000);
-            } else {
-                setTimeout(deplacerLumiere, 100);
-            }
+            setTimeout(() => {
+                lumiere.style.transition = 'none';
+                lumiere.style.top = '696px';
+                lumiere.style.left = '1521px';
+                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+            }, transitionTime * 1000);
+        } else {
+            setTimeout(deplacerLumiere, 100);
         }
-        
-        deplacerLumiere();
-    });
+    }
+    
+    deplacerLumiere();
+});
 
 document.addEventListener("DOMContentLoaded", function() {
     const lumiere = document.querySelector('.lumiered2');
@@ -33,13 +33,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 5) + 1;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '80.98vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '1269px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '60vh';
-                lumiere.style.left = '110vw';
+                lumiere.style.top = '603px';
+                lumiere.style.left = '1521px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -59,13 +59,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '72.85vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '1107px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '49.5vh';
-                lumiere.style.left = '110vw';
+                lumiere.style.top = '510px';
+                lumiere.style.left = '1521px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -85,13 +85,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 7) + 2;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '64.72vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '945px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '38.8vh';
-                lumiere.style.left = '110vw';
+                lumiere.style.top = '416px';
+                lumiere.style.left = '1521px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -111,13 +111,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '56.51vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '783px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '28.35vh';
-                lumiere.style.left = '110vw';
+                lumiere.style.top = '323px';
+                lumiere.style.left = '1521px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -137,13 +137,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '48.4vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '621px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '18vh';
-                lumiere.style.left = '110vw';
+                lumiere.style.top = '229px';
+                lumiere.style.left = '1521px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -163,13 +163,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '40.29vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '459px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '7.5vh';
-                lumiere.style.left = '110vw';
+                lumiere.style.top = '135px';
+                lumiere.style.left = '1521px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -189,13 +189,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '32.18vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '297px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-3vh';
-                lumiere.style.left = '110vw';
+                lumiere.style.top = '42px';
+                lumiere.style.left = '1521px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -215,13 +215,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '24.07vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '135px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-13.5vh';
-                lumiere.style.left = '110vw';
+                lumiere.style.top = '-52px';
+                lumiere.style.left = '1521px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -241,13 +241,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '15.96vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '-27px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '98.5vw';
+                lumiere.style.top = '-59px';
+                lumiere.style.left = '1372px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -267,13 +267,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '7.3vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '-189px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '90vw';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '1210px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -293,13 +293,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-1.35vw';
-            lumiere.style.top = `97.2vh`;
+            lumiere.style.left = '-351px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '81.2vw';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '1049px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -319,13 +319,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-2.3vw';
-            lumiere.style.top = `86.9vh`;
+            lumiere.style.left = '-513px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '72vw';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '887px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -345,13 +345,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-2.3vw';
-            lumiere.style.top = `76.25vh`;
+            lumiere.style.left = '-675px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '64vw';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '725px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -371,13 +371,39 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-2.3vw';
-            lumiere.style.top = `65.1vh`;
+            lumiere.style.left = '-837px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '55.2vw';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '563px';
+                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+            }, transitionTime * 1000);
+        } else {
+            setTimeout(deplacerLumiere, 100);
+        }
+    }
+    
+    deplacerLumiere();
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    const lumiere = document.querySelector('.lumiered16');
+    
+    function deplacerLumiere() {
+        const randomChance = Math.floor(Math.random() * 150) + 1;
+        
+        if (randomChance <= 1) {
+            const transitionTime = Math.floor(Math.random() * 9) + 5;
+            lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
+            lumiere.style.left = '-999px';
+            lumiere.style.top = `749px`;
+            
+            setTimeout(() => {
+                lumiere.style.transition = 'none';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '401px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -397,117 +423,13 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-2.3vw';
-            lumiere.style.top = `54.2vh`;
+            lumiere.style.left = '-1161px';
+            lumiere.style.top = `749px`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '46.5vw';
-                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
-            }, transitionTime * 1000);
-        } else {
-            setTimeout(deplacerLumiere, 100);
-        }
-    }
-    
-    deplacerLumiere();
-});
-
-document.addEventListener("DOMContentLoaded", function() {
-    const lumiere = document.querySelector('.lumiered18');
-    
-    function deplacerLumiere() {
-        const randomChance = Math.floor(Math.random() * 150) + 1;
-        
-        if (randomChance <= 1) {
-            const transitionTime = Math.floor(Math.random() * 9) + 5;
-            lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-2.3vw';
-            lumiere.style.top = `42.8vh`;
-            
-            setTimeout(() => {
-                lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '38vw';
-                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
-            }, transitionTime * 1000);
-        } else {
-            setTimeout(deplacerLumiere, 100);
-        }
-    }
-    
-    deplacerLumiere();
-});
-
-document.addEventListener("DOMContentLoaded", function() {
-    const lumiere = document.querySelector('.lumiered19');
-    
-    function deplacerLumiere() {
-        const randomChance = Math.floor(Math.random() * 150) + 1;
-        
-        if (randomChance <= 1) {
-            const transitionTime = Math.floor(Math.random() * 9) + 5;
-            lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-2.3vw';
-            lumiere.style.top = `31.9vh`;
-            
-            setTimeout(() => {
-                lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '29.25vw';
-                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
-            }, transitionTime * 1000);
-        } else {
-            setTimeout(deplacerLumiere, 100);
-        }
-    }
-    
-    deplacerLumiere();
-});
-
-document.addEventListener("DOMContentLoaded", function() {
-    const lumiere = document.querySelector('.lumiered20');
-    
-    function deplacerLumiere() {
-        const randomChance = Math.floor(Math.random() * 150) + 1;
-        
-        if (randomChance <= 1) {
-            const transitionTime = Math.floor(Math.random() * 9) + 5;
-            lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-2.3vw';
-            lumiere.style.top = `20.5vh`;
-            
-            setTimeout(() => {
-                lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '20.8vw';
-                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
-            }, transitionTime * 1000);
-        } else {
-            setTimeout(deplacerLumiere, 100);
-        }
-    }
-    
-    deplacerLumiere();
-});
-
-document.addEventListener("DOMContentLoaded", function() {
-    const lumiere = document.querySelector('.lumiered21');
-    
-    function deplacerLumiere() {
-        const randomChance = Math.floor(Math.random() * 10) + 1;
-        
-        if (randomChance <= 1) {
-            const transitionTime = Math.floor(Math.random() * 9) + 5;
-            lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '-2.3vw';
-            lumiere.style.top = `9.2vh`;
-            
-            setTimeout(() => {
-                lumiere.style.transition = 'none';
-                lumiere.style.top = '-9vh';
-                lumiere.style.left = '12vw';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '239px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {

@@ -597,460 +597,380 @@
     z-index: 1; 
 }
 
-.diagonaleg1 {
-    width: 100vw;
+.diagonaleg1{
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 145.5vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: 1246px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg2 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 135.05vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: 1084px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg3 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 124.6vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: 922px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
-.diagonaleg4{
-    width: 100vw;
+.diagonaleg4 {
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 114.15vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: 760px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg5 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 103.7vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: 598px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg6 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 93.25vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: 436px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
-
 .diagonaleg7 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 82.8vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: 274px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg8 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 72.35vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: 112px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
-
 .diagonaleg9 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 61.9vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -50px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg10 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 51.45vh;
-    left: 5.90vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -212px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg11 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 51.45vh;
-    left: -2.75vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -374px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg12 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 51.45vh;
-    left: -11.4vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -536px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg13 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 51.45vh;
-    left: -20.5vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -698px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg14 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 51.45vh;
-    left: -28.7vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -860px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg15 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 51.45vh;
-    left: -37.35vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -1022px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg16 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 51.45vh;
-    left: -46vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -1184px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaleg17 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 51.45vh;
-    left: -54.65vw;
-    transform: rotate(149.8deg);
-    background: #ffffff1a;
-    z-index: 0;
-}
-
-.diagonaleg18 {
-    width: 100vw;
-    height: 0.775px;
-    position: absolute;
-    top: 51.45vh;
-    left: -63.3vw;
-    transform: rotate(149.8deg);
-    background: #ffffff1a;
-    z-index: 0;
-}
-
-.diagonaleg19 {
-    width: 100vw;
-    height: 0.775px;
-    position: absolute;
-    top: 51.45vh;
-    left: -71.95vw;
-    transform: rotate(149.8deg);
-    background: #ffffff1a;
-    z-index: 0;
-}
-
-.diagonaleg20 {
-    width: 100vw;
-    height: 0.775px;
-    position: absolute;
-    top: 51.45vh;
-    left: -80.6vw;
-    transform: rotate(149.8deg);
-    background: #ffffff1a;
-    z-index: 0;
-}
-
-.diagonaleg21 {
-    width: 100vw;
-    height: 0.775px;
-    position: absolute;
-    top: 51.45vh;
-    left: -89.25vw;
-    transform: rotate(149.8deg);
+    top: 0px;
+    left: -1346px;
+    transform: rotate(150deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled1 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 49.6vh;
-    left: 5.80vw;
+    top: 352px;
+    left: 476px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled2 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 39vh;
-    left: 5.80vw;
+    top: 352px;
+    left: 312px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled3 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 28.4vh;
-    left: 5.80vw;
+    top: 352px;
+    left: 148px;
+    transform: rotate(30deg);
+    background: #ffffff1a;
+    z-index: 0;
+}
+
+.diagonaled4 {
+    width: 3100.42px;
+    height: 0.775px;
+    position: absolute;
+    top: 352px;
+    left: -16px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled5 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 18.1vh;
-    left: 5.80vw;
+    top: 352px;
+    left: -180px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled6 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 7.8vh;
-    left: 5.80vw;
+    top: 352px;
+    left: -344px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled7 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: -2.5vh;
-    left: 5.80vw;
+    top: 352px;
+    left: -508px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled8 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: -12.8vh;
-    left: 5.80vw;
+    top: 352px;
+    left: -672px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled9 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: -23.1vh;
-    left: 5.80vw;
+    top: 352px;
+    left: -836px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled10 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: -33.4vh;
-    left: 5.80vw;
+    top: 352px;
+    left: -1000px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled11 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: -43.7vh;
-    left: 5.80vw;
-    transform: rotate(30deg);
-    background: #ffffff1a;
-    z-index: 0;
-}
-
-
-.diagonaled4 {
-    width: 100vw;
-    height: 0.775px;
-    position: absolute;
-    top: 50.9vh;
-    left: -1.5vw;
+    top: 352px;
+    left: -1164px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled12 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 50.9vh;
-    left: -10.5vw;
+    top: 352px;
+    left: -1328px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled13 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 50.9vh;
-    left: -19.5vw;
+    top: 352px;
+    left: -1492px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled14 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 50.9vh;
-    left: -28.5vw;
+    top: 352px;
+    left: -1656px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled15 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 50.9vh;
-    left: -37.5vw;
+    top: 352px;
+    left: -1820px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled16 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 50.9vh;
-    left: -46.5vw;
+    top: 352px;
+    left: -1984px;
     transform: rotate(30deg);
     background: #ffffff1a;
     z-index: 0;
 }
 
 .diagonaled17 {
-    width: 100vw;
+    width: 3100.42px;
     height: 0.775px;
     position: absolute;
-    top: 50.9vh;
-    left: -55.5vw;
+    top: 352px;
+    left: -2148px;
     transform: rotate(30deg);
     background: #ffffff1a;
-    z-index: 0;
+    
 }
-
-.diagonaled18 {
-    width: 100vw;
-    height: 0.775px;
-    position: absolute;
-    top: 50.9vh;
-    left: -64.5vw;
-    transform: rotate(30deg);
-    background: #ffffff1a;
-    z-index: 0;
-}
-
-.diagonaled19 {
-    width: 100vw;
-    height: 0.775px;
-    position: absolute;
-    top: 50.9vh;
-    left: -73.5vw;
-    transform: rotate(30deg);
-    background: #ffffff1a;
-    z-index: 0;
-}
-
-.diagonaled20 {
-    width: 100vw;
-    height: 0.775px;
-    position: absolute;
-    top: 50.9vh;
-    left: -82.5vw;
-    transform: rotate(30deg);
-    background: #ffffff1a;
-    z-index: 0;
-}
-
+/*
 .oppacite {
     position: absolute;
     width: 60vw;
@@ -1076,9 +996,9 @@
 .lumiered1 {
     width: 1px;
     height: 79px;
-    top: 70vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: 696px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 0; 
     transform: rotate(60deg);
@@ -1087,9 +1007,9 @@
 .lumiered2 {
     width: 1px;
     height: 79px;
-    top: 60vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: 603px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 0; 
     transform: rotate(60deg);
@@ -1098,9 +1018,9 @@
 .lumiered3 {
     width: 1px;
     height: 79px;
-    top: 49.5vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: 510px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 0; 
     transform: rotate(60deg);
@@ -1109,9 +1029,9 @@
 .lumiered4 {
     width: 1px;
     height: 79px;
-    top: 38.8vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: 416px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 0; 
     transform: rotate(60deg);
@@ -1120,20 +1040,20 @@
 .lumiered5 {
     width: 1px;
     height: 79px;
-    top: 28.35vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: 323px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
-    z-index: 0; 
+    z-index: 1; 
     transform: rotate(60deg);
 }
 
 .lumiered6 {
     width: 1px;
     height: 79px;
-    top: 18vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: 229px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1142,9 +1062,9 @@
 .lumiered7 {
     width: 1px;
     height: 79px;
-    top: 7.55vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: 135px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1153,9 +1073,9 @@
 .lumiered8 {
     width: 1px;
     height: 79px;
-    top: -3vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: 42px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1164,9 +1084,9 @@
 .lumiered9 {
     width: 1px;
     height: 79px;
-    top: -13.5vh;
-    left: 110vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: -52px;
+    left: 1521px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1175,9 +1095,9 @@
 .lumiered10 {
     width: 1px;
     height: 79px;
-    top: -9vh;
-    left: 98.5vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: -60px;
+    left: 1372px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1186,9 +1106,9 @@
 .lumiered11 {
     width: 1px;
     height: 79px;
-    top: -9vh;
-    left: 90vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: -60px;
+    left: 1210px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1197,9 +1117,9 @@
 .lumiered12 {
     width: 1px;
     height: 79px;
-    top: -9vh;
-    left: 81.2vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: -60px;
+    left: 1049px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1208,9 +1128,9 @@
 .lumiered13 {
     width: 1px;
     height: 79px;
-    top: -9vh;
-    left: 72vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: -60px;
+    left: 887px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1219,9 +1139,9 @@
 .lumiered14 {
     width: 1px;
     height: 79px;
-    top: -9vh;
-    left: 64vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: -60px;
+    left: 725px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1230,9 +1150,20 @@
 .lumiered15 {
     width: 1px;
     height: 79px;
-    top: -9vh;
-    left: 55.2vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: -60px;
+    left: 563px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
+    position: absolute;
+    z-index: 1; 
+    transform: rotate(60deg);
+}
+
+.lumiered16 {
+    width: 1px;
+    height: 79px;
+    top: -60px;
+    left: 401px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1241,53 +1172,9 @@
 .lumiered17 {
     width: 1px;
     height: 79px;
-    top: -9vh;
-    left: 46.5vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-    position: absolute;
-    z-index: 1; 
-    transform: rotate(60deg);
-}
-
-.lumiered18 {
-    width: 1px;
-    height: 79px;
-    top: -9vh;
-    left: 38vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-    position: absolute;
-    z-index: 1; 
-    transform: rotate(60deg);
-}
-
-.lumiered19 {
-    width: 1px;
-    height: 79px;
-    top: -9vh;
-    left: 29.25vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-    position: absolute;
-    z-index: 1; 
-    transform: rotate(60deg);
-}
-
-.lumiered20 {
-    width: 1px;
-    height: 79px;
-    top: -9vh;
-    left: 20.8vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
-    position: absolute;
-    z-index: 1; 
-    transform: rotate(60deg);
-}
-
-.lumiered21 {
-    width: 1px;
-    height: 79px;
-    top: -9vh;
-    left: 12vw;
-    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    top: -60px;
+    left: 239px;
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1444,4 +1331,4 @@
     .recourvir_degat_oppacite {
         display: none;
     }
-}
+}*/
