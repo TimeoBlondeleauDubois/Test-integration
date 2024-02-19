@@ -1,4 +1,4 @@
-/*document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
     const lumiere = document.querySelector('.lumiered1');
     
     function deplacerLumiere() {
@@ -12,8 +12,8 @@
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '696px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '240px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -38,8 +38,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '603px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '403px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -64,8 +64,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '510px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '566px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -90,8 +90,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '416px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '729px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -116,8 +116,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '323px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '892px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -142,8 +142,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '229px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '1055px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -168,8 +168,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '135px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '1218px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -194,8 +194,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '42px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '1381px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -220,8 +220,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-52px';
-                lumiere.style.left = '1521px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '1544px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -246,8 +246,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-59px';
-                lumiere.style.left = '1372px';
+                lumiere.style.top = '-60px';
+                lumiere.style.left = '1707px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -273,7 +273,7 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '-60px';
-                lumiere.style.left = '1210px';
+                lumiere.style.left = '1870px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -299,7 +299,7 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '-60px';
-                lumiere.style.left = '1049px';
+                lumiere.style.left = '2033px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -325,7 +325,7 @@ document.addEventListener("DOMContentLoaded", function() {
             setTimeout(() => {
                 lumiere.style.transition = 'none';
                 lumiere.style.top = '-60px';
-                lumiere.style.left = '887px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -340,7 +340,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const lumiere = document.querySelector('.lumiered14');
     
     function deplacerLumiere() {
-        const randomChance = Math.floor(Math.random() * 150) + 1;
+        const randomChance = Math.floor(Math.random() * 10) + 1;
         
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 9) + 5;
@@ -350,8 +350,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '725px';
+                lumiere.style.top = '34px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -376,8 +376,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '563px';
+                lumiere.style.top = '128px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -402,8 +402,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '401px';
+                lumiere.style.top = '222px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -428,8 +428,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '239px';
+                lumiere.style.top = '316px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -454,8 +454,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '239px';
+                lumiere.style.top = '410px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -480,8 +480,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '239px';
+                lumiere.style.top = '504px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -506,8 +506,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '239px';
+                lumiere.style.top = '598px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -532,8 +532,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '239px';
+                lumiere.style.top = '692px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -558,8 +558,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '239px';
+                lumiere.style.top = '786px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -584,8 +584,8 @@ document.addEventListener("DOMContentLoaded", function() {
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '-60px';
-                lumiere.style.left = '239px';
+                lumiere.style.top = '880px';
+                lumiere.style.left = '2196px';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
         } else {
@@ -594,4 +594,4 @@ document.addEventListener("DOMContentLoaded", function() {
     }
     
     deplacerLumiere();
-});*/
+});
