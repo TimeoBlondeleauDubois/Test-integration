@@ -1,29 +1,28 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const lumiere = document.querySelector('.lumiered1');
-    
-    function deplacerLumiere() {
-        const randomChance = Math.floor(Math.random() * 0) + 1;
+    document.addEventListener("DOMContentLoaded", function() {
+        const lumiere = document.querySelector('.lumiered1');
         
-        if (randomChance <= 1) {
-            const transitionTime = Math.floor(Math.random() * 5) + 1;
-            lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '90%';
-            lumiere.style.top = `100%`;
+        function deplacerLumiere() {
+            const randomChance = Math.floor(Math.random() * 150) + 1;
             
-            setTimeout(() => {
-                lumiere.style.transition = 'none';
-                lumiere.style.top = '69.2%';
-                lumiere.style.left = '110%';
-                setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
-            }, transitionTime * 1000);
-        } else {
-            setTimeout(deplacerLumiere, 100);
+            if (randomChance <= 1) {
+                const transitionTime = Math.floor(Math.random() * 5) + 1;
+                lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
+                lumiere.style.left = '89.02vw';
+                lumiere.style.top = `97.2vh`;
+                
+                setTimeout(() => {
+                    lumiere.style.transition = 'none';
+                    lumiere.style.top = '70vh';
+                    lumiere.style.left = '110vw';
+                    setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
+                }, transitionTime * 1000);
+            } else {
+                setTimeout(deplacerLumiere, 100);
+            }
         }
-    }
-    
-    deplacerLumiere();
-});
-
+        
+        deplacerLumiere();
+    });
 
 document.addEventListener("DOMContentLoaded", function() {
     const lumiere = document.querySelector('.lumiered2');

@@ -601,10 +601,10 @@
     width: 100vw;
     height: 0.775px;
     position: absolute;
-    top: 149%;
-    left: 5.9%;
+    top: 145.5vh;
+    left: 5.90vw;
     transform: rotate(149.8deg);
-    background: #ff6a00;
+    background: #ffffff1a;
     z-index: 0;
 }
 
@@ -1076,9 +1076,9 @@
 .lumiered1 {
     width: 1px;
     height: 79px;
-    top: 73%;
-    left: 110%;
-    background: linear-gradient(to top, rgb(255, 0, 0), rgb(255, 0, 0));
+    top: 70vh;
+    left: 110vw;
+    background: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 0; 
     transform: rotate(60deg);
