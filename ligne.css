@@ -1304,19 +1304,18 @@
     transform: rotate(30deg);
     background: #ffffff1a; 
 }
-/*
+
 .oppacite {
     position: absolute;
-    width: 60vw;
-    height: 110vh;
+    width: 50vw;
+    height: 106vh;
     top: -6vh;
     left: -5vw;
     overflow: hidden;
-    background: linear-gradient(to right, #3b60f4, #3b60f43b);
+    background: linear-gradient(120deg, #3b60f4, #3b60f42f);
     z-index: 2;
-    transform: rotate(5deg);
 }
-
+/*
 .recourvir_degat_oppacite {
     position: absolute;
     width: 65vw;
@@ -1584,8 +1583,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 684px;
-    left: 793px;
+    top: 688.5px;
+    left: 958px;
     transform: rotate(30deg);
     background: #6a85f2; 
 }
@@ -1594,8 +1593,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 684px;
-    left: 793px;
+    top: 688.5px;
+    left: 958px;
     transform: rotate(149.8deg);
     background: #6a85f2;
     z-index: 0;
@@ -1605,8 +1604,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 402px;
-    left: 795px;
+    top: 406.5px;
+    left: 958px;
     transform: rotate(30deg);
     background: #6a85f2; 
 }
@@ -1615,8 +1614,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 402px;
-    left: 795px;
+    top: 406.5px;
+    left: 958px;
     transform: rotate(149.8deg);
     background: #6a85f2;
     z-index: 0;
@@ -1626,8 +1625,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 120px;
-    left: 799px;
+    top: 124.5px;
+    left: 958px;
     transform: rotate(30deg);
     background: #6a85f2; 
 }
@@ -1636,8 +1635,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 120px;
-    left: 799px;
+    top: 124.5px;
+    left: 958px;
     transform: rotate(149.8deg);
     background: #6a85f2;
     z-index: 0;
@@ -1647,8 +1646,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 119px;
-    left: 1125px;
+    top: 124.5px;
+    left: 1285px;
     transform: rotate(30deg);
     background: #6a85f2; 
 }
@@ -1657,8 +1656,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 119px;
-    left: 1125px;
+    top: 125px;
+    left: 1284.5px;
     transform: rotate(149.8deg);
     background: #6a85f2;
     z-index: 0;
@@ -1668,8 +1667,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 118px;
-    left: 1451px;
+    top: 124px;
+    left: 1610px;
     transform: rotate(30deg);
     background: #6a85f2; 
 }
@@ -1678,8 +1677,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 118px;
-    left: 1451px;
+    top: 124px;
+    left: 1610px;
     transform: rotate(149.8deg);
     background: #6a85f2;
     z-index: 0;
@@ -1689,8 +1688,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 683px;
-    left: 1445px;
+    top: 689px;
+    left: 1610px;
     transform: rotate(30deg);
     background: #6a85f2; 
 }
@@ -1699,8 +1698,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 683px;
-    left: 1445px;
+    top: 689px;
+    left: 1610px;
     transform: rotate(149.8deg);
     background: #6a85f2;
     z-index: 0;
@@ -1710,8 +1709,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 400px;
-    left: 1447px;
+    top: 406px;
+    left: 1610px;
     transform: rotate(30deg);
     background: #6a85f2; 
 }
@@ -1720,8 +1719,8 @@
     width: 15px;
     height: 2px;
     position: absolute;
-    top: 400px;
-    left: 1447px;
+    top: 406px;
+    left: 1610px;
     transform: rotate(149.8deg);
     background: #6a85f2;
     z-index: 0;
