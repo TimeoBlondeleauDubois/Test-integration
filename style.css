@@ -198,12 +198,68 @@ header {
 
 .content {
     position: absolute;
-    left: 1041px;
-    top: 134px;
+    left: 1045px;
+    top: 167px;
     margin-top: 0;
     z-index: 8;
 }
 
+.fleche_verticale1 {
+    position: absolute;
+    left: 1049px;
+    top: 234px;
+    margin-top: 0;
+    z-index: 8;
+}
+
+.fleche_verticale2 {
+    position: absolute;
+    left: 1289.4px;
+    top: 374px;
+    margin-top: 0;
+    z-index: 8;
+}
+
+
+.fleche_verticale3 {
+    position: absolute;
+    left: 1452px;
+    top: 282px;
+    margin-top: 0;
+    z-index: 8;
+}
+
+.fleche_verticale4_2 {
+    position: absolute;
+    left: 1211px;
+    top: 150px;
+    margin-top: 0;
+    z-index: 100;
+    max-width: 8px;
+    min-height: auto;
+    filter: blur(2px);
+}
+
+.fleche_verticale4_1 {
+    position: absolute;
+    left: 1211px;
+    top: 140px;
+    margin-top: 0;
+    z-index: 100;
+    max-width: 8px;
+    min-height: auto;
+}
+
+.fleche_verticale4_3 {
+    position: absolute;
+    left: 1211px;
+    top: 140px;
+    margin-top: 0;
+    z-index: 100;
+    max-width: 8px;
+    min-height: auto;
+    filter: blur(1px);
+}
 
 section {
     height: 200vh;
