@@ -7,12 +7,12 @@ document.addEventListener("DOMContentLoaded", function() {
         if (randomChance <= 1) {
             const transitionTime = Math.floor(Math.random() * 5) + 1;
             lumiere.style.transition = `top ${transitionTime}s linear, left ${transitionTime}s linear`;
-            lumiere.style.left = '89.02%';
-            lumiere.style.top = `97.2%`;
+            lumiere.style.left = '90%';
+            lumiere.style.top = `100%`;
             
             setTimeout(() => {
                 lumiere.style.transition = 'none';
-                lumiere.style.top = '70%';
+                lumiere.style.top = '69.2%';
                 lumiere.style.left = '110%';
                 setTimeout(deplacerLumiere, transitionTime * 1000 + 3000); 
             }, transitionTime * 1000);
