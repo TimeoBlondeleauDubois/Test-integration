@@ -49,7 +49,7 @@ header {
 }
 
 .navbar .nav-links ul li {
-    margin-right: 2.2222vw;
+    margin-right: 35px;
 }
 
 .navbar .nav-links ul li:last-child {
@@ -57,12 +57,13 @@ header {
 }
 
 .navbar .nav-logo img {
-    margin-right: 0.8708vw; 
+    margin-right: 10px; 
     width: 41.96px;
     height: 41.96px;
 }
 
 .container1 {
+    min-width: 800px;
     position: absolute;
     padding: 0px 8.3333vw;
     top: 31.38vh;
@@ -110,6 +111,8 @@ header {
 
 .talk-to-an-expert {
     margin-top: 6.25vh;
+    min-width: 200px;
+    min-height: 40px;
     width: 13.88vw;
     height: 6.510vh;
     border-radius: 8px;
@@ -132,6 +135,8 @@ header {
 
 
 .talk-to-an-expert2 {
+    min-width: 200px;
+    min-height: 40px;
     width: 13.88vw;
     height: 6.510vh;
     border-radius: 8px;
@@ -153,7 +158,7 @@ header {
     z-index: 10;
     opacity: 1;
     position: absolute;
-    left: 80.39vw;
+    left: calc(max(80.39vw, 750px));
 }
 
 .svg-icon {
@@ -527,6 +532,8 @@ section {
 }
 
 .talk-to-an-expert3 {
+    min-width: 200px;
+    min-height: 40px;
     margin-top: 4.166vh;
     width: 13.88vw;
     height: 6.510vh;
