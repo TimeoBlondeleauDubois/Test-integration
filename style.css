@@ -14,7 +14,8 @@ body {
 header {
     min-height: 700px;
     height: 100vh;
-    min-width: 100%;
+    min-width: 1500px;
+    width: 100%;
     max-width: 100%;
     background-color: #3B61F4;
     margin-top: 0;
@@ -209,6 +210,7 @@ section {
     min-height: 1410px;
     background-color: #ffffff;
     z-index: 12;
+    min-width: 1500px;
 }
 
 .container3 {
@@ -508,8 +510,9 @@ section {
     background-color: #3B61F4;
     margin-top: 0;
     z-index: -21;
-    min-width: 100%;
+    width: 100%;
     max-width: 100%;
+    min-width: 1500px;
 }
 
 .heading3 {
@@ -602,8 +605,8 @@ footer {
     background-color: #0F183B;
     height: 42vh;
     z-index: 20;
-    min-width: 100%;
-    max-width: 100%;
+    width: 100%;
+    min-width: 1500px;
 }
 
 .footer-logo {
