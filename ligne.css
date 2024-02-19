@@ -1453,7 +1453,7 @@
     height: 79px;
     top: -60px;
     left: 2033px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1464,7 +1464,7 @@
     height: 79px;
     top: -60px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1475,7 +1475,7 @@
     height: 79px;
     top: 34px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(255, 0, 0), rgba(255, 0, 0, 0));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1508,7 +1508,7 @@
     height: 79px;
     top: 316px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1519,7 +1519,7 @@
     height: 79px;
     top: 410px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1530,7 +1530,7 @@
     height: 79px;
     top: 504px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1541,7 +1541,7 @@
     height: 79px;
     top: 598px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1552,7 +1552,7 @@
     height: 79px;
     top: 692px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1563,7 +1563,7 @@
     height: 79px;
     top: 786px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
@@ -1574,7 +1574,7 @@
     height: 79px;
     top: 880px;
     left: 2196px;
-    background: linear-gradient(to top, rgb(0, 255, 0), rgb(255, 255, 255));
+    background: linear-gradient(to top, rgb(255, 255, 255), rgba(255, 255, 255, 0));
     position: absolute;
     z-index: 1; 
     transform: rotate(60deg);
