@@ -1076,8 +1076,8 @@
 .lumiered1 {
     width: 1px;
     height: 79px;
-    top: 97.2vh;
-    left: 89.02vw;
+    top: 70vh;
+    left: 110vw;
     background: linear-gradient(to top, #ff0000, rgb(255, 0, 0));
     position: absolute;
     z-index: 0; 
@@ -1087,8 +1087,8 @@
 .lumiered2 {
     width: 1px;
     height: 79px;
-    top: 97.2vh;
-    left: 80.98vw;
+    top: 60vh;
+    left: 110vw;
     background: linear-gradient(to top, rgb(255, 0, 0), rgb(255, 0, 0));
     position: absolute;
     z-index: 0; 
@@ -1098,8 +1098,8 @@
 .lumiered3 {
     width: 1px;
     height: 79px;
-    top: 97.2vh;
-    left: 72.85vw;
+    top: 49.5vh;
+    left: 110vw;
     background: linear-gradient(to top, rgb(255, 0, 0), rgb(255, 0, 0));
     position: absolute;
     z-index: 0; 
