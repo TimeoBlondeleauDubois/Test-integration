@@ -1067,7 +1067,7 @@
     position: absolute;
     width: 65vw;
     height: 20vh;
-    top: 100vh;
+    top: 100.7vh;
     overflow: hidden;
     background: #ffffff;
     z-index: 12;
@@ -1438,4 +1438,10 @@
     transform: rotate(149.8deg);
     background: #6a85f2;
     z-index: 0;
+}
+
+@media (max-height: 695px) {
+    .recourvir_degat_oppacite {
+        display: none;
+    }
 }

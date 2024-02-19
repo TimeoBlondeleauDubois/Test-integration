@@ -12,6 +12,7 @@ body {
 }
 
 header {
+    min-height: 700px;
     height: 100vh;
     min-width: 100%;
     max-width: 100%;
@@ -191,62 +192,16 @@ header {
 
 .content {
     position: absolute;
-    left: 60.734vw;
-    top: 20.977vh;
+    left: 1000px;
+    top: 125px;
     margin-top: 0;
     z-index: 8;
-}
-
-.fleche_verticale1 {
-    position: absolute;
-    left: 61vw;
-    top: 28.5vh;
-    margin-top: 0;
-}
-
-.fleche_verticale2 {
-    position: absolute;
-    left: 73.5vw;
-    top: 44vh;
-    margin-top: 0;
-}
-
-.fleche_verticale3 {
-    position: absolute;
-    left: 89.2vw;
-    top: 50vh;
-    margin-top: 0;
-}
-
-.fleche_verticale4_1 {
-    position: absolute;
-    left: 65vw;
-    top: 19vhpx;
-    margin-top: 0;
-    filter: blur(1.15px);
-    max-height: 318.57px;
-}
-
-.fleche_verticale4_2 {
-    position: absolute;
-    left: 1040.57px;
-    top: 136.32px;
-    margin-top: 0;
-    filter: blur(3px);
-    max-height: 318.57px;
-}
-
-.fleche_verticale4_3 {
-    position: absolute;
-    left: 1040.57px;
-    top: 136.32px;
-    margin-top: 0;
-    max-height: 318.57px;
 }
 
 
 section {
     height: 200vh;
+    min-height: 1410px;
     background-color: #ffffff;
     z-index: 12;
 }
@@ -543,6 +498,7 @@ section {
 }
 
 .section2 {
+    min-height: 375px;
     height: 54.68vh;
     background-color: #3B61F4;
     margin-top: 0;
