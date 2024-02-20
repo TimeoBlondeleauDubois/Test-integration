@@ -46,6 +46,30 @@
     background: #ffffff1a; 
 }
 
+.ligne_horizontale7 {
+    width: 95vw;
+    height: 0.775px;
+    position: relative;
+    top: 47.25vh;
+    background: #ffffff1a; 
+}
+
+.ligne_horizontale8 {
+    width: 95vw;
+    height: 0.775px;
+    position: relative;
+    top: 54vh;
+    background: #ffffff1a; 
+}
+
+.ligne_horizontale9 {
+    width: 95vw;
+    height: 0.775px;
+    position: relative;
+    top: 60.75vh;
+    background: #ffffff1a; 
+}
+
 .ligne_verticale1 {
     width: 0.775px;
     height: 90.6vh;
